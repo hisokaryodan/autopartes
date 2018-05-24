@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Prueba Tecnica autopartes</h1>
+    <h1 align="center">Prueba Técnica autopartes</h1>
     <br>
 </p>
 
@@ -29,5 +29,5 @@ Prueba técnica rest yii2, esta prueba contiene rest completo para entidad autos
 <ul>
 <li><code>GET /partes</code>: lista de todos las partes página a página;</li>
 <li><code>GET /partes/123</code>: devuelve los detalles de la parte 123;</li>
-<li><code>POST auto/<auto_id>/partes: crea un nuevo parte;</li>
+<li><code>POST auto/{auto_id}/partes: crea un nuevo parte;</li>
 </ul>
